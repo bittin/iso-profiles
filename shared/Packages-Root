@@ -41,7 +41,7 @@ intel-ucode
 iproute2
 iputils
 jfsutils
-KERNEL
+linux512
 less
 licenses
 logrotate

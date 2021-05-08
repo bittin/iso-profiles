@@ -7,5 +7,3 @@ manjaro-live-systemd
 mkinitcpio-nfs-utils
 nbd
 clonezilla
-KERNEL-zfs
-zfs-utils
