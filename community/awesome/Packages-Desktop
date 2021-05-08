@@ -144,7 +144,6 @@ lxterminal
 >extra light-locker
 network-manager-applet
 >extra menulibre
->extra orage
 >extra poppler-glib       # tumbler - for PDF thumbnails
 >extra thunar-archive-plugin
 >extra thunar-shares-plugin
