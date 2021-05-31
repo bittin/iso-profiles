@@ -8,7 +8,6 @@ KERNEL-bbswitch
 KERNEL-broadcom-wl
 #KERNEL-r8168
 #KERNEL-rt3562sta
-linux-latest-virtualbox-guest-modules
 linux512-headers
 zfs-dkms
 libva-intel-driver
